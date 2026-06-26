@@ -15,7 +15,7 @@ That's how I build software too — it has to *work*, for a real person, or it d
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[ad-scout](https://github.com/liamssbusiness/ad-scout)** | CLI that pulls competitor ads from the Meta Ad Library and runs a Haiku→Sonnet Claude pipeline to break down their hooks, angles & offers | TypeScript · Anthropic · CLI |
+| **[ad-scout](https://github.com/liamssbusiness/ad-scout)** · [🔴 live demo](https://ad-scout-web.vercel.app) | CLI (+ web app) that pulls competitor ads from the Meta Ad Library and runs a Haiku→Sonnet Claude pipeline to break down their hooks, angles & offers | TypeScript · Anthropic · CLI |
 | **[pacific-growth-co](https://github.com/liamssbusiness/pacific-growth-co)** | AI lead qualifier — three Claude agents analyze a prospect's business and stream a custom strategy in real time | Next.js · Anthropic · SSE |
 | **[Spidey](https://github.com/liamssbusiness/Spidey)** | AI "Chief of Staff" dashboard — Claude tool-use over Gmail, Calendar, tasks & notes, with approval-gated write actions | Next.js · Anthropic · Google OAuth |
 | **[jarvis](https://github.com/liamssbusiness/jarvis)** | Personal AI command center — Claude chat, voice, live HUD widgets, Telegram butler, optional local PC agent | Vanilla JS · Vercel · Claude |
